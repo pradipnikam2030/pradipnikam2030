@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-Passionate about creating dynamic and intuitive user interfaces. I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.
+Passionate about building efficient and scalable applications. I specialize in developing robust backend systems using Java and Spring Boot and have expertise in microservices architecture and database management.
 </p>
 
 ---
@@ -15,7 +15,13 @@ Passionate about creating dynamic and intuitive user interfaces. I specialize in
 ---
 
 ## 📌 About Me
-Experienced Java Developer proficient in Java, Spring Boot, My SQL, and React, with a strong focus on building scalable web applications and microservices architectures.
+👨‍💻 Detail-oriented Software Engineer with 1.5+ years of experience in Java, Spring Boot, and relational databases. Passionate about building scalable and high-performance applications.
+
+🔹 Skilled in large-scale system migration, performance optimization, and code quality improvements.
+🔹 Strong problem-solving mindset with a focus on writing clean and maintainable code.
+🔹 Enthusiastic about learning new technologies and contributing to open-source projects.
+
+🚀 Always eager to take on new challenges and build efficient software solutions!
 
 ---
 
