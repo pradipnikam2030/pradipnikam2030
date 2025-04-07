@@ -15,13 +15,10 @@ Passionate about building efficient and scalable applications. I specialize in d
 ---
 
 ## 📌 About Me
-👨‍💻 Detail-oriented Software Engineer with 1.5+ years of experience in Java, Spring Boot, and relational databases. Passionate about building scalable and high-performance applications.
+Detail-oriented Software Engineer with **1.5+ years** of experience in **Java, Spring Boot,** and **relational databases**.  
+Passionate about building **scalable** and **high-performance** applications.  
 
-🔹 Skilled in large-scale system migration, performance optimization, and code quality improvements.
-🔹 Strong problem-solving mindset with a focus on writing clean and maintainable code.
-🔹 Enthusiastic about learning new technologies and contributing to open-source projects.
-
-🚀 Always eager to take on new challenges and build efficient software solutions!
+🚀 **Always eager to take on new challenges and build efficient software solutions!** 
 
 ---
 
