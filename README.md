@@ -1,25 +1,27 @@
-## Hi there 👋
-Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.
+<h1 align="center">Hi there 👋</h1>
 
-**Skills**
-Java
-Spring Boot
-Angular
-React
-React Native
-Node.js
-Microservices
-<!--
-**pradipnikam2030/pradipnikam2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate about creating dynamic and intuitive user interfaces. I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Java**
+- **Spring Boot**
+- **Spring Security**
+- **My SQL**
+
+---
+
+## 📌 About Me
+Experienced Java Developer proficient in Java, Spring Boot, My SQL, and React, with a strong focus on building scalable web applications and microservices architectures.
+
+---
+
+## 📬 Contact Me
+- **Email:** [nikampradip863@gmail.com](mailto:nikampradip863@gmail.com)
+- **LinkedIn:** [pradip nikam](https://www.linkedin.com/in/pradip-nikam-62879417b/)
+---
+
+⭐️ _Feel free to reach out for collaboration or technical discussions!_
