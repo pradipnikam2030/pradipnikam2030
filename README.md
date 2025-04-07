@@ -1,5 +1,14 @@
 ## Hi there 👋
+Passionate about creating dynamic and intuitive user interfaces, I specialize in developing mobile applications using React Native and have expertise in Node.js for backend development.
 
+**Skills**
+Java
+Spring Boot
+Angular
+React
+React Native
+Node.js
+Microservices
 <!--
 **pradipnikam2030/pradipnikam2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
